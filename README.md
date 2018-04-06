@@ -58,5 +58,3 @@ Train a recurrent neural network that can get better performance than the simple
 
 8. How do you find the best hyperparameters like learning rate, momentum, type of optimizer etc. for a new task at hand?
 
-### Submission Link
-https://goo.gl/forms/RCPgo6fRsFcHGn6P2
