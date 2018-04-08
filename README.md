@@ -3,6 +3,7 @@
 - [Visual Learning and Recognition (16-824) Spring 2018](https://sites.google.com/andrew.cmu.edu/16824-spring2018/home)
 - Created By: [Lerrel Pinto](http://www.cs.cmu.edu/~lerrelp)
 - TAs: [Lerrel Pinto](http://www.cs.cmu.edu/~lerrelp/), [Senthil Purushwalkam](http://www.cs.cmu.edu/~spurushw/), [Nadine Chang](https://www.ri.cmu.edu/ri-people/nai-chen-chang/) and [Rohit Girdhar](http://rohitgirdhar.github.io)
+- Submission Date: 18th April 2018 (Before Midnight)
 - Please post questions, if any, on the piazza for HW3.
 - Total points: 100
 
